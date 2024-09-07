@@ -1,0 +1,60 @@
+ Mustafa    28617   29533           Hatay
+   Sevil     5370          Fidan
+   Berrak    18322          Vural
+    Berna    11459       yildirim
+    Murat    16865   25857          Burdur
+   Ahmet    11050   24016         Bilecik
+  Necati    26081    5567          Batman
+  (null)    15351   32270          Mardin
+  Berrak    23724         Sertel
+ Abdullah    28283   21162         Isparta
+   Murat    30970   31833         Giresun
+   Gamze    28518          Hakan
+    Murat     4005   21172          Ankara
+  Berkay    28820    4185          Mardin
+ Batuhan    10165   11108            Kars
+  Nergiz     6636         Soysal
+     Jale    20802          Vural
+    Berna    13145            Can
+     Jale    30811          Faruk
+   Berrak    18552         Soysal
+   Nergiz    16939          Fidan
+    Sevil    13759           Turk
+      Ece    14865         Soysal
+    Murat    32407   10127          Batman
+   Gizem    30791           Turk
+    Ender    25514          Fidan
+   Necati    31165   20073         Trabzon
+     Ali     9797   13626      Eskişehir
+   Derya    16039      Erkoyuncu
+    Berna    15304          Hakan
+    Murat      743   28386          Niğde
+  Necati    20279    7609         Isparta
+  Zeynep     6750           Cebi
+   Berrak     7607         Sertel
+   (null)    18879   22009         Bayburt
+Abdullah    13478   28475         Iğdır
+   Berna    16576         Yilmaz
+      Ali    12343   12679           Siirt
+   Gamze    11660          Harun
+  Mustafa     9089   31296         Malatya
+     Ali    16751   12040         Denizli
+Abdullah     8863    8883     Kırıkkale
+   Engin    15911     103       Adıyaman
+  (null)    32265   26003       Zonguldak
+   Ahmet     3189   14374       Cankırı
+   Derya    13116         Yilmaz
+    Murat    12099    4687        Hakkâri
+   Derya     5489      Erkoyuncu
+   Berkay    18255   23587           Tokat
+ Batuhan    25606   21330      Eskişehir
+   Murat    16438   25114             Van
+  Berrak    12719           Cebi
+    Derya    27618            Can
+   Kezban    13526          Harun
+      Ali    17277   28655           Sinop
+   Gizem     6299          Fidan
+    Faruk       78   31199           Kilis
+  Mehmet     3231   22285          İzmir
+   Engin    29009   20559         Bayburt
+ Mustafa     9489    9283         Sakarya
